@@ -1,2 +1,2 @@
-# allenamenti
-diario allenamenti in python
+# Training
+Python training diary
